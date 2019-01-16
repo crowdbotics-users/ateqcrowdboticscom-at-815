@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT ateqcrowdboticscom_at_815.wsgi:application
